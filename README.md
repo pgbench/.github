@@ -1,1 +1,1 @@
-Organization readme here
+Organization readme [here](./profile/README.md)
